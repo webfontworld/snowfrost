@@ -1,0 +1,12 @@
+/* 
+https://webfontworld.github.io/HambakSnow/HambakSnow.css
+https://wess.tistory.com/234
+*/
+
+@font-face {
+    font-family: 'HambakSnow';
+    font-weight: normal; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/HambakSnow/HambakSnow.woff2) format('woff2');
+    font-display: swap;
+}
